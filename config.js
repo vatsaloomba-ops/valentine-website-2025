@@ -24,7 +24,7 @@ const CONFIG = {
         first: {
             text: "Do you likeee me?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
-            noBtn: "It's lke you don't even like me",                                               // Text for "No" button
+            noBtn: "It's like you don't even like me",                                               // Text for "No" button
             secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
         },
         second: {
@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Thank you for  making the luckiest girl in the world nini :( 🎉💝💖💝💓",
+        title: "Thank you for  making the luckiest boy in the world nini :( 🎉💝💖💝💓",
         message: "Agent VV hopes this valentine's is the best nini has ever felt and experienced!!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
